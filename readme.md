@@ -1,1 +1,1 @@
-# Learning backend with js
+### A production grade backend with the best practices in the market using Node.js, Express.js, MongoDB, and other JavaScript libraries.
