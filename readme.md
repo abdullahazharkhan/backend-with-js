@@ -1,1 +1,1 @@
-### A production grade backend with the best practices in the market using Node.js, Express.js, MongoDB, and other JavaScript libraries.
+### A production grade backend with the best practices using Node.js, Express.js, MongoDB, and other JavaScript libraries.
